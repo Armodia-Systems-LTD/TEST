@@ -1,2 +1,2 @@
 --PARENT = nil
-print(PARENT)
+print(PARENT.Name)
