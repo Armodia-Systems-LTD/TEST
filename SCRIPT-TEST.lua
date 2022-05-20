@@ -1,2 +1,2 @@
 --PARENT = nil
-print(PARENT.Name)
+print(script.Name)
